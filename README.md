@@ -32,4 +32,5 @@ In cazul **subscriptiilor**, putem rula codul fara a folosi paralelizare, folosi
 
 **Obs:** Pentru generarea unui numar mic de publicatii/subscriptii, timpul de rulare creste daca folosim mai multe thread-uri (in loc sa scada) deoarece in Java, crearea și administrarea thread-urilor implică un anumit cost suplimentar. Dacă operația pe care o realizam este destul de simplă sau nu implică o cantitate mare de calcule, atunci costul de a crea și gestiona thread-urile poate depăși beneficiile paralelizării.
 **Specificatiile procesorului pe care s-au rulat testele:**
-![procesor][./procesor.png]
+
+![procesor](./procesor.png)
