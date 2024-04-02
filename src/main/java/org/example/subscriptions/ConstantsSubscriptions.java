@@ -1,7 +1,7 @@
 package org.example.subscriptions;
 
 public class ConstantsSubscriptions {
-    public static final int NUM_SUBSCRIPTIONS = 5000000;
+    public static final int NUM_SUBSCRIPTIONS = 100;
     static final int COMPANY_PERCENTAGE = 70;
     static final int DATE_PERCENTAGE = 20;
     static final int VALUE_PERCENTAGE = 80;
